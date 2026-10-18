@@ -2,8 +2,8 @@
   "generated_at": "2026-10-18T11:24:59.164316+00:00",
   "requested_days": 2,
   "upstream_epg_commit": "6f6cfe2f82fac6bf4e09def36baae4fc5656bacc",
-  "guide_url": "https://raw.githubusercontent.com/hiromot0/epg/codex/personal-epg/personal/guide.xml",
-  "playlist_url": "https://raw.githubusercontent.com/hiromot0/iptv-1/codex/personal-epg/personal/index.m3u",
+  "guide_url": "https://raw.githubusercontent.com/hiromot0/epg/personal-epg/personal/guide.xml",
+  "playlist_url": "https://raw.githubusercontent.com/hiromot0/iptv-1/personal-epg/personal/index.m3u",
   "programmes": 5504,
   "channels_with_programmes": 108,
   "sources": {

@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/hiromot0/epg/codex/personal-epg/personal/guide.xml" x-tvg-url="https://raw.githubusercontent.com/hiromot0/epg/codex/personal-epg/personal/guide.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/hiromot0/epg/personal-epg/personal/guide.xml" x-tvg-url="https://raw.githubusercontent.com/hiromot0/epg/personal-epg/personal/guide.xml"
 #EXTINF:-1 tvg-id="5USA.uk@SD" tvg-logo="https://i.imgur.com/Pi7so2l.png" group-title="English / Entertainment",5USA (360p)
 https://lb.iptvnetwork.net/ls28/10115/playlist.m3u8
 #EXTINF:-1 tvg-id="AkaalChannel.uk@SD" tvg-logo="https://i.imgur.com/K81vNbk.png" group-title="English / Religious",Akaal Channel (396p) [Geo-blocked]

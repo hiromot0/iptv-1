@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/hiromot0/epg/codex/personal-epg/personal/guide.xml" x-tvg-url="https://raw.githubusercontent.com/hiromot0/epg/codex/personal-epg/personal/guide.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/hiromot0/epg/personal-epg/personal/guide.xml" x-tvg-url="https://raw.githubusercontent.com/hiromot0/epg/personal-epg/personal/guide.xml"
 #EXTINF:-1 tvg-id="BBCNews.uk@AsiaPacific" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="Japanese / News",BBC News Asia Pacific (576p)
 https://thinkkast.dpdns.org/thinkkast/bbcworld_news_sd/versiglia/index.m3u8
 #EXTINF:-1 tvg-id="GSTV.jp@SD" tvg-logo="https://i.imgur.com/ECnVG5I.png" group-title="Japanese / Shop",GSTV (720p)

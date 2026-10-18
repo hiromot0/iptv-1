@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/hiromot0/epg/codex/personal-epg/personal/guide.xml" x-tvg-url="https://raw.githubusercontent.com/hiromot0/epg/codex/personal-epg/personal/guide.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/hiromot0/epg/personal-epg/personal/guide.xml" x-tvg-url="https://raw.githubusercontent.com/hiromot0/epg/personal-epg/personal/guide.xml"
 #EXTINF:-1 tvg-id="00sReplay.us@SD" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" group-title="English / Movies",00s Replay
 https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
 #EXTINF:-1 tvg-id="100AutoMotoTV.bg@SD" tvg-logo="https://i.imgur.com/SZtJfOG.png" group-title="English / Auto",100% Auto Moto TV (406p) [Not 24/7]

@@ -2,17 +2,17 @@
 
 Chinese, Japanese and English entries from the public iptv-org language
 playlists, linked to real XMLTV schedules. Korean channels are excluded.
-All changes are isolated on `codex/personal-epg`.
+All changes are isolated on `personal-epg`.
 
 ## Direct import
 
 | Resource | URL |
 | --- | --- |
-| Combined playlist with EPG | https://raw.githubusercontent.com/hiromot0/iptv-1/codex/personal-epg/personal/index.m3u |
-| Chinese with EPG | https://raw.githubusercontent.com/hiromot0/iptv-1/codex/personal-epg/personal/zh.m3u |
-| Japanese with EPG | https://raw.githubusercontent.com/hiromot0/iptv-1/codex/personal-epg/personal/ja.m3u |
-| English with EPG | https://raw.githubusercontent.com/hiromot0/iptv-1/codex/personal-epg/personal/en.m3u |
-| XMLTV | https://raw.githubusercontent.com/hiromot0/epg/codex/personal-epg/personal/guide.xml |
+| Combined playlist with EPG | https://raw.githubusercontent.com/hiromot0/iptv-1/personal-epg/personal/index.m3u |
+| Chinese with EPG | https://raw.githubusercontent.com/hiromot0/iptv-1/personal-epg/personal/zh.m3u |
+| Japanese with EPG | https://raw.githubusercontent.com/hiromot0/iptv-1/personal-epg/personal/ja.m3u |
+| English with EPG | https://raw.githubusercontent.com/hiromot0/iptv-1/personal-epg/personal/en.m3u |
+| XMLTV | https://raw.githubusercontent.com/hiromot0/epg/personal-epg/personal/guide.xml |
 
 Add a playlist as a Link source in iTV. If necessary, paste the XMLTV URL in
 Programme Guide settings and tap Load/Update Guide. The M3U headers already
@@ -34,7 +34,7 @@ preserved. There is no automatic HD/SD or regional feed merging. A loaded EPG
 does not mean that a stream has passed playback testing.
 
 The guide is a short-lived snapshot. See
-[the EPG branch and refresh instructions](https://github.com/hiromot0/epg/tree/codex/personal-epg/personal).
+[the EPG branch and refresh instructions](https://github.com/hiromot0/epg/tree/personal-epg/personal).
 No automatic refresh is enabled. This personal branch is separate from the
 licensed synthetic iTV App Store review fixtures. Provider terms and geographic
 availability still apply to linked streams and programme data.
